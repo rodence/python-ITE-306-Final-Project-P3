@@ -1,7 +1,11 @@
 #Title: Space World
-#Description: 
-
-
+#Description: This website is information about our solar system 
+#Programmers:
+#1. Rodence D. Atacador
+#2. Mark Joshua E. De Dios
+#3. Kenneth Perez
+#4. Marvin Caventa
+#Date Submitted: 10/20/2022
 from flask import Flask, render_template, url_for
 
 
